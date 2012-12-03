@@ -1,6 +1,6 @@
 """
 Sources:
-    English regions: http://www.statistics.gov.uk/geography/downloads/31_10_01_REGION_names_and_codes_12_00.xls
+    English regions: http://en.wikipedia.org/wiki/List_of_ceremonial_counties_of_England
     Northern Ireland regions: http://en.wikipedia.org/wiki/List_of_Irish_counties_by_area
     Welsh regions: http://en.wikipedia.org/wiki/Preserved_counties_of_Wales
     Scottish regions: http://en.wikipedia.org/wiki/Regions_and_districts_of_Scotland
@@ -9,22 +9,28 @@ from django.utils.translation import ugettext_lazy as _
 
 ENGLAND_REGION_CHOICES = (
     ("Bedfordshire", _("Bedfordshire")),
+    ("Berkshire", _("Berkshire")),
+    ("Bristol", _("Bristol")),
     ("Buckinghamshire", _("Buckinghamshire")),
-    ("Cambridgeshire", ("Cambridgeshire")),
+    ("Cambridgeshire", _("Cambridgeshire")),
     ("Cheshire", _("Cheshire")),
-    ("Cornwall and Isles of Scilly", _("Cornwall and Isles of Scilly")),
+    ("City of London", _("City of London")),
+    ("Cornwall", _("Cornwall")),
+    ("County Durham", _("County Durham")),
     ("Cumbria", _("Cumbria")),
     ("Derbyshire", _("Derbyshire")),
     ("Devon", _("Devon")),
     ("Dorset", _("Dorset")),
-    ("Durham", _("Durham")),
+    ("East Riding of Yorkshire", _("East Riding of Yorkshire")),
     ("East Sussex", _("East Sussex")),
     ("Essex", _("Essex")),
     ("Gloucestershire", _("Gloucestershire")),
     ("Greater London", _("Greater London")),
     ("Greater Manchester", _("Greater Manchester")),
     ("Hampshire", _("Hampshire")),
+    ("Herefordshire", _("Herefordshire")),
     ("Hertfordshire", _("Hertfordshire")),
+    ("Isle of Wight", _("Isle of Wight")),
     ("Kent", _("Kent")),
     ("Lancashire", _("Lancashire")),
     ("Leicestershire", _("Leicestershire")),
@@ -36,6 +42,7 @@ ENGLAND_REGION_CHOICES = (
     ("Northumberland", _("Northumberland")),
     ("Nottinghamshire", _("Nottinghamshire")),
     ("Oxfordshire", _("Oxfordshire")),
+    ("Rutland", _("Rutland")),
     ("Shropshire", _("Shropshire")),
     ("Somerset", _("Somerset")),
     ("South Yorkshire", _("South Yorkshire")),
@@ -48,7 +55,7 @@ ENGLAND_REGION_CHOICES = (
     ("West Sussex", _("West Sussex")),
     ("West Yorkshire", _("West Yorkshire")),
     ("Wiltshire", _("Wiltshire")),
-    ("Worcestershire", _("Worcestershire")),
+    ("Worcestershire", _("Worcestershire"))
 )
 
 NORTHERN_IRELAND_REGION_CHOICES = (
