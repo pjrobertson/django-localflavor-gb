@@ -1,0 +1,392 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-22 17:27+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
+"11) ? 2 : 3;\n"
+
+#: forms.py:25
+msgid "Enter a valid postcode."
+msgstr "Mewnbynnwch côd post dilys"
+
+#: gb_regions.py:11
+msgid "Bedfordshire"
+msgstr ""
+
+#: gb_regions.py:12
+msgid "Berkshire"
+msgstr ""
+
+#: gb_regions.py:13
+msgid "Bristol"
+msgstr ""
+
+#: gb_regions.py:14
+msgid "Buckinghamshire"
+msgstr ""
+
+#: gb_regions.py:15
+msgid "Cambridgeshire"
+msgstr ""
+
+#: gb_regions.py:16
+msgid "Cheshire"
+msgstr ""
+
+#: gb_regions.py:17
+msgid "City of London"
+msgstr ""
+
+#: gb_regions.py:18
+msgid "Cornwall"
+msgstr ""
+
+#: gb_regions.py:19
+msgid "County Durham"
+msgstr ""
+
+#: gb_regions.py:20
+msgid "Cumbria"
+msgstr ""
+
+#: gb_regions.py:21
+msgid "Derbyshire"
+msgstr ""
+
+#: gb_regions.py:22
+msgid "Devon"
+msgstr ""
+
+#: gb_regions.py:23
+msgid "Dorset"
+msgstr ""
+
+#: gb_regions.py:24
+msgid "East Riding of Yorkshire"
+msgstr ""
+
+#: gb_regions.py:25
+msgid "East Sussex"
+msgstr ""
+
+#: gb_regions.py:26
+msgid "Essex"
+msgstr ""
+
+#: gb_regions.py:27
+msgid "Gloucestershire"
+msgstr ""
+
+#: gb_regions.py:28
+msgid "Greater London"
+msgstr ""
+
+#: gb_regions.py:29
+msgid "Greater Manchester"
+msgstr ""
+
+#: gb_regions.py:30
+msgid "Hampshire"
+msgstr ""
+
+#: gb_regions.py:31
+msgid "Herefordshire"
+msgstr ""
+
+#: gb_regions.py:32
+msgid "Hertfordshire"
+msgstr ""
+
+#: gb_regions.py:33
+msgid "Isle of Wight"
+msgstr ""
+
+#: gb_regions.py:34
+msgid "Kent"
+msgstr ""
+
+#: gb_regions.py:35
+msgid "Lancashire"
+msgstr ""
+
+#: gb_regions.py:36
+msgid "Leicestershire"
+msgstr ""
+
+#: gb_regions.py:37
+msgid "Lincolnshire"
+msgstr ""
+
+#: gb_regions.py:38
+msgid "Merseyside"
+msgstr ""
+
+#: gb_regions.py:39
+msgid "Norfolk"
+msgstr ""
+
+#: gb_regions.py:40
+msgid "North Yorkshire"
+msgstr ""
+
+#: gb_regions.py:41
+msgid "Northamptonshire"
+msgstr ""
+
+#: gb_regions.py:42
+msgid "Northumberland"
+msgstr ""
+
+#: gb_regions.py:43
+msgid "Nottinghamshire"
+msgstr ""
+
+#: gb_regions.py:44
+msgid "Oxfordshire"
+msgstr ""
+
+#: gb_regions.py:45
+msgid "Rutland"
+msgstr ""
+
+#: gb_regions.py:46
+msgid "Shropshire"
+msgstr ""
+
+#: gb_regions.py:47
+msgid "Somerset"
+msgstr ""
+
+#: gb_regions.py:48
+msgid "South Yorkshire"
+msgstr ""
+
+#: gb_regions.py:49
+msgid "Staffordshire"
+msgstr ""
+
+#: gb_regions.py:50
+msgid "Suffolk"
+msgstr ""
+
+#: gb_regions.py:51
+msgid "Surrey"
+msgstr ""
+
+#: gb_regions.py:52
+msgid "Tyne and Wear"
+msgstr ""
+
+#: gb_regions.py:53
+msgid "Warwickshire"
+msgstr ""
+
+#: gb_regions.py:54
+msgid "West Midlands"
+msgstr ""
+
+#: gb_regions.py:55
+msgid "West Sussex"
+msgstr ""
+
+#: gb_regions.py:56
+msgid "West Yorkshire"
+msgstr ""
+
+#: gb_regions.py:57
+msgid "Wiltshire"
+msgstr ""
+
+#: gb_regions.py:58
+msgid "Worcestershire"
+msgstr ""
+
+#: gb_regions.py:62
+msgid "County Antrim"
+msgstr ""
+
+#: gb_regions.py:63
+msgid "County Armagh"
+msgstr ""
+
+#: gb_regions.py:64
+msgid "County Down"
+msgstr ""
+
+#: gb_regions.py:65
+msgid "County Fermanagh"
+msgstr ""
+
+#: gb_regions.py:66
+msgid "County Londonderry"
+msgstr ""
+
+#: gb_regions.py:67
+msgid "County Tyrone"
+msgstr ""
+
+#: gb_regions.py:71
+msgid "Blaenau Gwent"
+msgstr ""
+
+#: gb_regions.py:72
+msgid "Bridgend"
+msgstr "Pen-y-bont ar Ogwr"
+
+#: gb_regions.py:73
+msgid "Caerphilly"
+msgstr "Caerffili"
+
+#: gb_regions.py:74
+msgid "Cardiff"
+msgstr "Caerdydd"
+
+#: gb_regions.py:75
+msgid "Carmarthenshire"
+msgstr "Sir Gaerfyrddin"
+
+#: gb_regions.py:76
+msgid "Ceredigion"
+msgstr ""
+
+#: gb_regions.py:77
+msgid "Conwy"
+msgstr "Sir Ddinbych"
+
+#: gb_regions.py:78
+msgid "Denbighshire"
+msgstr ""
+
+#: gb_regions.py:79
+msgid "Flintshire"
+msgstr "Sir y Fflint"
+
+#: gb_regions.py:80
+msgid "Gwynedd"
+msgstr ""
+
+#: gb_regions.py:81
+msgid "Isle of Anglesey"
+msgstr "Ynys Môn"
+
+#: gb_regions.py:82
+msgid "Merthyr Tydfil"
+msgstr "Merthyr Tudful"
+
+#: gb_regions.py:83
+msgid "Monmouthshire"
+msgstr "Sir Fynwy"
+
+#: gb_regions.py:84
+msgid "Neath Port Talbot"
+msgstr "Castell-nedd Port Talbot"
+
+#: gb_regions.py:85
+msgid "Newport"
+msgstr "Casnewydd"
+
+#: gb_regions.py:86
+msgid "Pembrokeshire"
+msgstr "Sir Benfro"
+
+#: gb_regions.py:87
+msgid "Powys"
+msgstr ""
+
+#: gb_regions.py:88
+msgid "Rhondda Cynon Taf"
+msgstr ""
+
+#: gb_regions.py:89
+msgid "Swansea"
+msgstr "Abertawe"
+
+#: gb_regions.py:90
+msgid "Torfaen"
+msgstr "Tor-faen"
+
+#: gb_regions.py:91
+msgid "Vale of Glamorgan"
+msgstr "Bro Morgannwg"
+
+#: gb_regions.py:92
+msgid "Wrexham"
+msgstr "Wrecsam"
+
+#: gb_regions.py:96
+msgid "Borders"
+msgstr ""
+
+#: gb_regions.py:97
+msgid "Central Scotland"
+msgstr ""
+
+#: gb_regions.py:98
+msgid "Dumfries and Galloway"
+msgstr ""
+
+#: gb_regions.py:99
+msgid "Fife"
+msgstr ""
+
+#: gb_regions.py:100
+msgid "Grampian"
+msgstr ""
+
+#: gb_regions.py:101
+msgid "Highland"
+msgstr ""
+
+#: gb_regions.py:102
+msgid "Lothian"
+msgstr ""
+
+#: gb_regions.py:103
+msgid "Orkney Islands"
+msgstr ""
+
+#: gb_regions.py:104
+msgid "Shetland Islands"
+msgstr ""
+
+#: gb_regions.py:105
+msgid "Strathclyde"
+msgstr ""
+
+#: gb_regions.py:106
+msgid "Tayside"
+msgstr ""
+
+#: gb_regions.py:107
+msgid "Western Isles"
+msgstr ""
+
+#: gb_regions.py:111
+msgid "England"
+msgstr "Lloegr"
+
+#: gb_regions.py:112
+msgid "Northern Ireland"
+msgstr "Gogledd Iwerddon"
+
+#: gb_regions.py:113
+msgid "Scotland"
+msgstr "Yr Alban"
+
+#: gb_regions.py:114
+msgid "Wales"
+msgstr "Cymru"
