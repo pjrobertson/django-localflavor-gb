@@ -2,7 +2,7 @@
 Sources:
     English regions: http://en.wikipedia.org/wiki/List_of_ceremonial_counties_of_England
     Northern Ireland regions: http://en.wikipedia.org/wiki/List_of_Irish_counties_by_area
-    Welsh regions: http://en.wikipedia.org/wiki/Preserved_counties_of_Wales
+    Welsh regions: http://en.wikipedia.org/wiki/Subdivisions_of_Wales
     Scottish regions: http://en.wikipedia.org/wiki/Regions_and_districts_of_Scotland
 """
 from django.utils.translation import ugettext_lazy as _
